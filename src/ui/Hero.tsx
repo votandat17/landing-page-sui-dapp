@@ -28,7 +28,8 @@ function Hero() {
                     style={{ fontSize: "clamp(42px, 6vw, 72px)", fontFamily: "'Syne', sans-serif" }}
 
                 >
-                    Your Web3{" "}Experience, Simplified.
+                    Your Web3 Experience, Simplified.
+                    <br />
                     <span 
                         style={{
                             background: "linear-gradient(135deg, #22d3ee 0%, #5078ff 100%)",
